@@ -15,4 +15,5 @@ This code is a model-style topic extractor for educational documents.
 - `scikit-learn` for TF-IDF and clustering
 - `python-docx` for parsing `.docx`
 - `numpy`, `re` for utilities
+- output
 
